@@ -1,0 +1,35 @@
+:root {
+  --main-red: #ffb9a3;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  color: #21243d;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+  font-weight: bold;
+  line-height: 60px;
+  font-size: 44px;
+  margin: 0;
+  margin-bottom: 40px;
+}
+
+.cta {
+  background-color: #ff6464;
+  color: #ffffff;
+  font-weight: 400;
+  font-size: 20px;
+  padding: 12px 20px;
+  border-radius: 2px;
+  border: none;
+}
