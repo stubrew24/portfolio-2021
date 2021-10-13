@@ -2,13 +2,7 @@
   <aside>
     <div class="links">
       <a href="https://www.twitter.com/stubrew24">
-        <img src="~/assets/images/twitter.svg" alt="" />
-      </a>
-      <a href="https://www.twitter.com/stubrew24">
-        <img src="~/assets/images/twitter.svg" alt="" />
-      </a>
-      <a href="https://www.twitter.com/stubrew24">
-        <img src="~/assets/images/twitter.svg" alt="" />
+        <img src="~/assets/images/twitter.svg" alt="Twitter logo" />
       </a>
     </div>
   </aside>
