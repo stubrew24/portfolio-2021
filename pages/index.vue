@@ -11,7 +11,12 @@
         problems.
       </p>
     </div>
-    <img src="~assets/images/profile.jpeg" alt="" />
+    <img
+      src="~assets/images/profile.jpeg"
+      alt="Stuart Sewell headshot"
+      width="500"
+      height="500"
+    />
   </section>
 </template>
 
